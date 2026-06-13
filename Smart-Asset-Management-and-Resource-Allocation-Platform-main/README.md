@@ -7,21 +7,7 @@ The Smart Asset Management and Resource Allocation Platform (AssetFlow) is a ful
 
 ---
 
-## Screenshots
 
-### Dashboard
-![Dashboard](docs/dashboard.png)
-
-### Asset Catalog
-![Assets](docs/assets.png)
-
-### Booking Management
-![Bookings](docs/bookings.png)
-
-### Audit Logs
-![Logs](docs/logs.png)
-
----
 
 ## Technology Stack
 - **Framework**: Next.js 15 (App Router) with TypeScript
